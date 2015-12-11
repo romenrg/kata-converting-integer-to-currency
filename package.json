@@ -1,0 +1,23 @@
+{
+  "name": "kata-converting-integer-to-currency",
+  "version": "1.0.0",
+  "description": "Converting integer to currency format, kata from codewars.com",
+  "main": "integer-to-currency.js",
+  "scripts": {
+    "test": "mocha integer-to-currency.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romenrg/kata-converting-integer-to-currency.git"
+  },
+  "author": "Romen Rodriguez-Gil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romenrg/kata-converting-integer-to-currency/issues"
+  },
+  "homepage": "https://github.com/romenrg/kata-converting-integer-to-currency#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
