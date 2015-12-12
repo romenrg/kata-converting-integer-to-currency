@@ -1,3 +1,3 @@
-var toCurrency = require("./arithmetic/arithmetic-to-currency.js");
+var toCurrency = require("./regex/regex-to-currency.js");
 
 module.exports = toCurrency;
